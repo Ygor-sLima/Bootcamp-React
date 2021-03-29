@@ -1,0 +1,13 @@
+li {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+a{
+    padding: 25px;
+}
+
+a img {
+    align-self: center;
+}
